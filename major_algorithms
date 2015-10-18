@@ -1,0 +1,165 @@
+Binary Search 
+
+Quicksort 
+
+Merge Sort 
+
+Suffix Array 
+
+Knuth-Morris
+
+Rabin-Karp Algorithm 
+
+Tries 
+
+Depth First Traversal of a graph
+
+Breadth First Traversal of a graph 
+
+Dijkstra's Algorithm
+
+Binary Indexed Tree
+
+Segment Tree (with lazy propagation) 
+
+ Various Uses, Persistent Segment Tree, problems same as BIT, Problem, Problem/HLD is used as well/
+
+Z algorithm 
+
+Floyd Warshall Algorithm 
+
+Sparse Table(RMQ) 
+
+Heap / Priority Queue / Heapsort 
+
+Modular Multiplicative Inverse
+
+nCr % M
+
+Suffix Automaton
+
+Lowest Common Ancestor
+
+Counting Inversions
+
+Euclid's Extended Algorithm
+
+Suffix Tree
+
+Dynamic Programming 
+
+Basic Data Structures 
+
+Logarithmic Exponentiation
+
+Graphs
+
+Minimum Spanning Tree 
+
+Efficient Prime Factorization
+
+Combinatorics
+
+Union Find/Disjoint Set 
+
+Knapsack problem 
+
+Aho-Corasick String Matching Algorithm 
+
+Strongly Connected Components 
+
+Bellman Ford algorithm
+
+Heavy-light Decomposition
+
+Convex Hull : Tutorial, Jarvis Algorithm Implementation, Tutorial with Graham scan, Tutorial, Implementation, Problem, Problem, Problem, Problem, Problem
+
+Line Intersection
+
+Sieve of Erastothenes
+
+Interval Tree
+
+Counting Sort
+
+Probabilities
+
+Matrix Exponentiation
+
+Network flow : (Max Flow)Tutorial : I, II, Max Flow(Ford-Fulkerson) Tutorial, Implementation, (Min Cut) Tutorial, Implementation, (Min Cost Flow)Tutorial : I, II, III, Dinic's Algorithm with Implementation, Max flow by Edmonds Karp with Implementation, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem
+
+K-d tree 
+
+Deque
+
+Binary Search Tree 
+
+Quick Select
+
+Treap/Cartesian Tree :
+
+Game Theory : Detailed Paper, Tutorial, Problems, Grundy Numbers, Tutorial with example problems - I, II, III, IV, Tutorial, Problems, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Nim
+
+STL (C++) : I, II, Crash Course
+
+Maximum Bipartite Matching
+
+Manacher's Algorithm 
+
+Miller-Rabin Primality Test : Code
+
+Stable Marriage Problem
+
+Hungarian Algorithm, Tutorial
+
+Sweep line Algorithm : I, II
+
+LCP 
+
+Gaussian Elimination
+
+Pollard Rho Integer Factorization, problem
+
+Topological Sorting
+
+Detecting Cycles in a Graph : Directed - I, II Undirected : I
+
+Geometry
+
+Backtracking 
+
+Eulerian and Hamiltonian Paths 
+
+Graph Coloring
+
+Meet in the Middle 
+
+Arbitrary Precision Integer(BigInt), II
+
+Radix Sort, Bucket Sort
+
+Johnson's Algorithm 
+
+Maximal Matching in a General Graph : Blossom/Edmond's Algorithm, Implementation, Tutte Matrix, Problem
+
+Recursion : I, II, Towers of Hanoi with explanation
+
+Inclusion and Exclusion Principle : I, II
+
+Co-ordinate Compression
+
+Sqrt-Decomposition 
+
+Link-Cut Tree
+
+Euler's Totient Function
+
+Burnside Lemma 
+
+Edit/Levenshtein Distance
+
+Branch and Bound
+
+Math for Competitive Programming
+
+Mo's Algorithm
